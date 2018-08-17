@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Consolidated Test Suite">
+    <test name="Consolidated Test">
+        <groups>
+            <run>
+                <include name="consolidated"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="BitCoinPriceIndexTest"/>
+            <class name="ShoppingCartTest"/>
+        </classes>
+    </test>
+</suite>

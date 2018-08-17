@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "nyc": "^12.0.2",
+    "js-beautify": "^1.7.4"
+  },
+  "dependencies": {
+    "simple-server": "^1.1.1"
+  }
+}
