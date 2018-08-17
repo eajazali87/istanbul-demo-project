@@ -1,10 +1,1106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ae86292-c6f8-496e-8811-b6d5ce83bcd7" name="Default" comment="" />
+    <list default="true" id="3dfcd03b-0475-4ca2-b40f-3ef980f191a5" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/detect" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/detect-port" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/micro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/mime" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/rc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/serve" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/simple-server" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/uglifyjs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/which" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/accepts/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/accepts/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/accepts/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/accepts/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/accepts/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/address/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/address/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/address/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/address/lib/address.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/address/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/align-text/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/align-text/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/align-text/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/align-text/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/amdefine/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/amdefine/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/amdefine/amdefine.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/amdefine/intercept.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/amdefine/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ansi-align/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ansi-align/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ansi-align/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ansi-align/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ansi-align/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ansi-regex/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ansi-regex/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ansi-regex/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ansi-regex/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ansi-styles/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ansi-styles/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ansi-styles/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ansi-styles/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/arch/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/arch/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/arch/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/arch/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/arch/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/arg/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/arg/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/arg/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/arg/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/arg/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/arg/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/arg/yarn.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/args/lib/command.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/args/lib/example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/args/lib/examples.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/args/lib/help.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/args/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/args/lib/option.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/args/lib/options.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/args/lib/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/args/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/args/lib/version.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/args/license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/args/node_modules/chalk/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/args/node_modules/chalk/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/args/node_modules/chalk/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/args/node_modules/chalk/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/args/node_modules/chalk/templates.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/args/node_modules/chalk/types/index.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/args/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/args/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/async/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/async/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/async/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/async/dist/async.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/async/dist/async.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/async/lib/async.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/async/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/basic-auth/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/basic-auth/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/basic-auth/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/basic-auth/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/basic-auth/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/changelog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/browser/bluebird.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/browser/bluebird.core.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/browser/bluebird.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/browser/bluebird.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/any.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/assert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/async.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/bind.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/bluebird.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/call_get.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/cancel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/catch_filter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/context.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/debuggability.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/direct_resolve.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/each.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/errors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/es5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/filter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/finally.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/generators.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/join.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/method.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/nodeback.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/nodeify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/promise.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/promise_array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/promisify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/props.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/queue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/race.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/reduce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/schedule.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/settle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/some.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/synchronous_inspection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/thenables.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/timers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/using.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bluebird/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/boxen/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/boxen/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/boxen/node_modules/camelcase/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/boxen/node_modules/camelcase/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/boxen/node_modules/camelcase/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/boxen/node_modules/camelcase/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/boxen/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/boxen/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bytes/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bytes/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bytes/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bytes/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bytes/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/camelcase/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/camelcase/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/camelcase/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/camelcase/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/center-align/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/center-align/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/center-align/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/center-align/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/center-align/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/chalk/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/chalk/index.js.flow" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/chalk/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/chalk/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/chalk/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/chalk/templates.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/chalk/types/index.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cli-boxes/boxes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cli-boxes/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cli-boxes/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cli-boxes/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cli-boxes/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/clipboardy/fallbacks/linux/xsel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/clipboardy/fallbacks/windows/clipboard_i686.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/clipboardy/fallbacks/windows/clipboard_x86_64.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/clipboardy/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/clipboardy/lib/linux.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/clipboardy/lib/macos.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/clipboardy/lib/termux.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/clipboardy/lib/windows.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/clipboardy/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/clipboardy/node_modules/execa/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/clipboardy/node_modules/execa/lib/errname.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/clipboardy/node_modules/execa/lib/stdio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/clipboardy/node_modules/execa/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/clipboardy/node_modules/execa/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/clipboardy/node_modules/execa/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/clipboardy/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/clipboardy/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cliui/.coveralls.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cliui/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cliui/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cliui/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cliui/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cliui/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/README.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/example/center.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/example/meat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/test/break.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/test/idleness.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/test/wrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cliui/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cliui/test/cliui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/color-convert/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/color-convert/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/color-convert/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/color-convert/conversions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/color-convert/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/color-convert/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/color-convert/route.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/color-name/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/color-name/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/color-name/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/color-name/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compressible/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compressible/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compressible/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compressible/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compressible/node_modules/mime-db/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compressible/node_modules/mime-db/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compressible/node_modules/mime-db/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compressible/node_modules/mime-db/db.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compressible/node_modules/mime-db/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compressible/node_modules/mime-db/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compressible/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compression/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compression/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compression/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compression/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compression/node_modules/safe-buffer/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compression/node_modules/safe-buffer/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compression/node_modules/safe-buffer/index.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compression/node_modules/safe-buffer/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compression/node_modules/safe-buffer/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/compression/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/content-type/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/content-type/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/content-type/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/content-type/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/content-type/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cross-spawn/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cross-spawn/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cross-spawn/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cross-spawn/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/enoent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/escapeArgument.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/escapeCommand.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/hasEmptyArgumentBug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/readShebang.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/resolveCommand.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cross-spawn/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/dargs/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/dargs/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/dargs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/dargs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/src/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/src/debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/src/inspector-log.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/src/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/decamelize/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/decamelize/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/decamelize/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/decamelize/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/deep-extend/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/deep-extend/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/deep-extend/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/deep-extend/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/deep-extend/lib/deep-extend.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/deep-extend/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/lib/browser/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/lib/compat/callsite-tostring.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/lib/compat/event-listener-count.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/lib/compat/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/destroy/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/destroy/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/destroy/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/destroy/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/detect-port/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/detect-port/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/detect-port/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/detect-port/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/detect-port/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/detect-port/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/detect-port/bin/detect-port" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/detect-port/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/detect-port/lib/detect-port.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/detect-port/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ee-first/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ee-first/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ee-first/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ee-first/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/encodeurl/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/encodeurl/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/encodeurl/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/encodeurl/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/encodeurl/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escape-html/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escape-html/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escape-html/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escape-html/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escape-string-regexp/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escape-string-regexp/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escape-string-regexp/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/etag/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/etag/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/etag/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/etag/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/etag/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/execa/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/execa/lib/errname.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/execa/lib/stdio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/execa/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/execa/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/execa/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/filesize/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/filesize/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/filesize/lib/filesize.es6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/filesize/lib/filesize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/filesize/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fresh/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fresh/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fresh/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fresh/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fresh/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/copy-sync.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/copy.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/emptyDir-sync.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/emptyDir.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/ensureDir-sync.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/ensureDir.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/ensureFile-sync.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/ensureFile.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/ensureLink-sync.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/ensureLink.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/ensureSymlink-sync.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/ensureSymlink.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/fs-read-write.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/move-sync.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/move.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/outputFile-sync.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/outputFile.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/outputJson-sync.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/outputJson.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/pathExists-sync.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/pathExists.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/readJson-sync.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/readJson.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/remove-sync.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/remove.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/writeJson-sync.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/docs/writeJson.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy-sync/copy-sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy-sync/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy/copy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/empty/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/file.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/link.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink-paths.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink-type.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/fs/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/jsonfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/output-json-sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/output-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/mkdirs/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/mkdirs/mkdirs-sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/mkdirs/mkdirs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/mkdirs/win32.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/move-sync/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/move/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/output/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/path-exists/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/remove/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/remove/rimraf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/util/buffer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/util/utimes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs-extra/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/get-stream/buffer-stream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/get-stream/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/get-stream/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/get-stream/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/get-stream/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graceful-fs/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graceful-fs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graceful-fs/fs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graceful-fs/graceful-fs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graceful-fs/legacy-streams.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graceful-fs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graceful-fs/polyfills.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/.gitmodules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/.idea/dictionaries/nknappmeier.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/.idea/handlebars.js.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/.idea/jsLibraryMappings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/.idea/watcherTasks.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/.istanbul.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/FAQ.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/README.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/appveyor.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/bin/handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars.runtime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/ast.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/code-gen.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/compiler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/javascript-compiler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/printer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/visitor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/whitespace-control.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/decorators.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/decorators/inline.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/exception.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/helpers/block-helper-missing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/helpers/each.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/helpers/helper-missing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/helpers/if.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/helpers/log.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/helpers/lookup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/helpers/with.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/logger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/no-conflict.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/runtime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/safe-string.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/precompiler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars.runtime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/ast.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/code-gen.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/javascript-compiler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/printer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/visitor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/whitespace-control.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/decorators.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/decorators/inline.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/exception.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/helpers/block-helper-missing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/helpers/each.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/helpers/helper-missing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/helpers/if.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/helpers/log.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/helpers/lookup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/helpers/with.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/logger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/no-conflict.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/runtime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/safe-string.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/precompiler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/handlebars.amd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/handlebars.amd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/handlebars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/handlebars.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/handlebars.runtime.amd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/handlebars.runtime.amd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/handlebars.runtime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/dist/handlebars.runtime.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/docs/compiler-api.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/docs/decorators-api.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars.runtime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/ast.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/code-gen.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/compiler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/javascript-compiler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/printer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/visitor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/whitespace-control.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/decorators.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/decorators/inline.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/exception.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/helpers/block-helper-missing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/helpers/each.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/helpers/helper-missing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/helpers/if.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/helpers/log.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/helpers/lookup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/helpers/with.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/logger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/no-conflict.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/runtime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/safe-string.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/lib/precompiler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/package-lock.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/print-script" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/release-notes.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/handlebars/runtime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/has-flag/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/has-flag/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/has-flag/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/has-flag/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/http-errors/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/http-errors/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/http-errors/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/http-errors/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/http-errors/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/Changelog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/dbcs-codec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/dbcs-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/internal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/sbcs-codec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/sbcs-data-generated.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/sbcs-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/tables/big5-added.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/tables/cp936.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/tables/cp949.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/tables/cp950.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/tables/eucjp.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/tables/gbk-added.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/tables/shiftjis.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/utf16.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/utf7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/lib/bom-handling.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/lib/extend-node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/lib/index.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/lib/streams.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/inherits.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/inherits_browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ini/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ini/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ini/ini.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ini/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ip/.jscsrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ip/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ip/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ip/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ip/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ip/lib/ip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ip/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ip/test/api-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-buffer/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-buffer/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-buffer/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-buffer/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-buffer/test/basic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-fullwidth-code-point/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-fullwidth-code-point/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-fullwidth-code-point/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-fullwidth-code-point/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-stream/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-stream/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-stream/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-stream/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-wsl/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-wsl/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-wsl/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-wsl/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/isexe/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/isexe/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/isexe/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/isexe/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/isexe/mode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/isexe/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/isexe/test/basic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/isexe/windows.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jsonfile/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jsonfile/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jsonfile/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jsonfile/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jsonfile/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/kind-of/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/kind-of/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/kind-of/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/kind-of/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lazy-cache/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lazy-cache/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lazy-cache/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lazy-cache/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/leven/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/leven/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/leven/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/leven/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/longest/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/longest/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/longest/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/longest/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lru-cache/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lru-cache/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lru-cache/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lru-cache/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro-compress/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro-compress/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro-compress/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro-compress/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro-compress/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro-compress/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro-compress/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro/bin/micro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro/lib/error.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro/lib/handler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro/lib/parse-endpoint.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro/license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro/node_modules/chalk/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro/node_modules/chalk/index.js.flow" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro/node_modules/chalk/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro/node_modules/chalk/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro/node_modules/chalk/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro/node_modules/chalk/templates.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro/node_modules/chalk/types/index.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/micro/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-db/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-db/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-db/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-db/db.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-db/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-db/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-types/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-types/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-types/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-types/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-types/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/build/build.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/build/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/cli.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/mime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/types.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/example/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/test/bool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/test/dash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/test/default_bool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/test/dotted.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/test/long.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/test/num.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/test/parse_modified.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/test/short.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/test/whitespace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mri/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mri/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mri/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mri/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ms/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ms/license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ms/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ms/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/negotiator/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/negotiator/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/negotiator/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/negotiator/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/negotiator/lib/charset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/negotiator/lib/encoding.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/negotiator/lib/language.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/negotiator/lib/mediaType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/negotiator/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-version/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-version/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-version/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-version/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/npm-run-path/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/npm-run-path/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/npm-run-path/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/npm-run-path/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-finished/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-finished/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-finished/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-finished/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-finished/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-headers/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-headers/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-headers/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-headers/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-headers/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/openssl-self-signed-certificate/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/openssl-self-signed-certificate/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/openssl-self-signed-certificate/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/openssl-self-signed-certificate/cert.pem" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/openssl-self-signed-certificate/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/openssl-self-signed-certificate/key.pem" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/openssl-self-signed-certificate/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/opn/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/opn/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/opn/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/opn/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/opn/xdg-open" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/example/bool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/example/boolean_double.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/example/boolean_single.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/example/default_hash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/example/default_singles.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/example/divide.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/example/line_count.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/example/line_count_options.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/example/line_count_wrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/example/nonopt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/example/reflect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/example/short.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/example/string.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/example/usage-options.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/example/xup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/test/_.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/test/_/argv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/test/_/bin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/test/dash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/test/parse_modified.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/test/short.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/test/usage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/optimist/test/whitespace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/p-finally/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/p-finally/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/p-finally/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/p-finally/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-is-inside/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-is-inside/lib/path-is-inside.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-is-inside/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-key/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-key/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-key/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-key/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-type/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-type/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-type/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-type/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pify/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pify/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pify/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pify/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pseudomap/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pseudomap/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pseudomap/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pseudomap/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pseudomap/pseudomap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pseudomap/test/basic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/range-parser/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/range-parser/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/range-parser/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/range-parser/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/range-parser/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/raw-body/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/raw-body/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/raw-body/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/raw-body/index.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/raw-body/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/raw-body/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/LICENSE.APACHE2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/LICENSE.BSD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/LICENSE.MIT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/cli.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/example/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/test/all_bool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/test/bool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/test/dash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/test/default_bool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/test/dotted.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/test/kv_short.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/test/long.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/test/num.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/test/parse_modified.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/test/short.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/test/stop_early.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/test/unknown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/test/whitespace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/test/ini.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/test/nested-env-vars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rc/test/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/registry-auth-token/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/registry-auth-token/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/registry-auth-token/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/registry-auth-token/base64.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/registry-auth-token/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/registry-auth-token/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/registry-auth-token/registry-url.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/registry-auth-token/test/auth-token.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/registry-auth-token/test/registry-url.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/registry-auth-token/yarn.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/registry-url/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/registry-url/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/registry-url/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/registry-url/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/repeat-string/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/repeat-string/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/repeat-string/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/repeat-string/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/right-align/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/right-align/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/right-align/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/right-align/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/safe-buffer/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/safe-buffer/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/safe-buffer/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/safe-buffer/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/safe-buffer/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/safe-buffer/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/node_modules/depd/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/node_modules/depd/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/node_modules/depd/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/node_modules/depd/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/node_modules/depd/lib/browser/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/node_modules/depd/lib/compat/callsite-tostring.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/node_modules/depd/lib/compat/event-listener-count.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/node_modules/depd/lib/compat/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/node_modules/depd/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/node_modules/statuses/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/node_modules/statuses/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/node_modules/statuses/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/node_modules/statuses/codes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/node_modules/statuses/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/node_modules/statuses/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve/assets/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve/bin/serve.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve/lib/api.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve/lib/listening.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve/lib/options.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve/lib/render.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve/lib/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve/lib/view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve/license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve/views/index.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/setprototypeof/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/setprototypeof/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/setprototypeof/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/setprototypeof/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/shebang-command/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/shebang-command/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/shebang-command/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/shebang-command/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/shebang-regex/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/shebang-regex/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/shebang-regex/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/shebang-regex/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/signal-exit/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/signal-exit/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/signal-exit/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/signal-exit/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/signal-exit/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/signal-exit/signals.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/simple-server/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/simple-server/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/simple-server/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/simple-server/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/simple-server/bin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/simple-server/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/simple-server/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/build/assert-shim.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/build/mini-require.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/build/prefix-source-map.jsm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/build/prefix-utils.jsm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/build/suffix-browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/build/suffix-source-map.jsm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/build/suffix-utils.jsm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/build/test-prefix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/build/test-suffix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/array-set.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/base64-vlq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/base64.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/binary-search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/mapping-list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/quick-sort.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/source-map-consumer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/source-map-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/source-node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/source-map/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/statuses/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/statuses/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/statuses/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/statuses/codes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/statuses/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/statuses/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/string-width/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/string-width/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/string-width/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/string-width/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/strip-ansi/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/strip-ansi/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/strip-ansi/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/strip-ansi/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/strip-eof/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/strip-eof/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/strip-eof/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/strip-eof/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/strip-json-comments/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/strip-json-comments/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/strip-json-comments/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/strip-json-comments/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/supports-color/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/supports-color/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/supports-color/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/supports-color/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/supports-color/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/term-size/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/term-size/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/term-size/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/term-size/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/term-size/vendor/macos/term-size" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/term-size/vendor/windows/term-size.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/bin/extract-props.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/bin/uglifyjs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/lib/ast.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/lib/compress.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/lib/mozilla-ast.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/lib/output.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/lib/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/lib/propmangle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/lib/scope.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/lib/sourcemap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/lib/transform.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/dist/source-map.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/dist/source-map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/dist/source-map.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/dist/source-map.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/array-set.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/base64-vlq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/base64.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/binary-search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/mapping-list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/quick-sort.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/source-map-consumer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/source-map-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/source-node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/source-map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/tools/domprops.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/tools/exports.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/tools/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-js/tools/props.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/test/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/universalify/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/universalify/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/universalify/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/universalify/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/unpipe/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/unpipe/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/unpipe/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/unpipe/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/unpipe/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/update-check/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/update-check/.yarnrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/update-check/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/update-check/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/update-check/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/update-check/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vary/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vary/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vary/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vary/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vary/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/which/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/which/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/which/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/which/bin/which" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/which/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/which/which.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/widest-line/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/widest-line/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/widest-line/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/widest-line/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/window-size/LICENSE-MIT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/window-size/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/window-size/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/window-size/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wordwrap/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wordwrap/README.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wordwrap/example/center.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wordwrap/example/meat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wordwrap/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wordwrap/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wordwrap/test/break.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wordwrap/test/idleness.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wordwrap/test/wrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yallist/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yallist/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yallist/iterator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yallist/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yallist/yallist.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/completion.sh.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/lib/completion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/lib/parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/lib/usage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/lib/validation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/node_modules/camelcase/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/node_modules/camelcase/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/node_modules/camelcase/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/node_modules/camelcase/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/package.json" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DemoProject.iml" afterPath="$PROJECT_DIR$/demo-project.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="demo-project.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,12 +1116,33 @@
   <component name="FavoritesManager">
     <favorites_list name="demo-project" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -46,7 +1163,7 @@
     <option name="width" value="1440" />
     <option name="height" value="787" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -57,33 +1174,42 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages />
+      <hideEmptyPackages ProjectPane="false" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
       <manualOrder />
-      <foldersAlwaysOnTop value="true" />
+      <foldersAlwaysOnTop value="false" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
-        <subPane>
+        <subPane />
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="istanbul-demo-project">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -92,12 +1218,54 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v6.9.1/bin/node" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -123,6 +1291,168 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -144,12 +1474,88 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="demo-project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -180,23 +1586,80 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0ae86292-c6f8-496e-8811-b6d5ce83bcd7" name="Default" comment="" />
-      <created>1534487837590</created>
+      <changelist id="3dfcd03b-0475-4ca2-b40f-3ef980f191a5" name="Default" comment="" />
+      <created>1534542109239</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1534487837590</updated>
-      <workItem from="1534487838779" duration="14000" />
+      <updated>1534542109239</updated>
+      <workItem from="1534542110625" duration="377000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14000" />
+    <option name="totallyTimeSpent" value="377000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="787" extended-state="6" />
@@ -209,26 +1672,54 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23829788" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17811158" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2825465" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23829788" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23829788" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17811158" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -236,5 +1727,102 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>demo-project</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.64</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
