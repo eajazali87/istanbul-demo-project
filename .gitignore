@@ -1,3 +1,6 @@
+.nyc_output
 node_modules
 .idea
 DemoProject.iml
+demo-project.iml
+.idea
