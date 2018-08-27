@@ -4,12 +4,12 @@
     <test name="Consolidated Test">
         <groups>
             <run>
-                <include name="consolidated"/>
+                <include name="multiple"/>
             </run>
         </groups>
         <classes>
-            <class name="BitCoinPriceIndexTest"/>
             <class name="ShoppingCartTest"/>
+            <class name="BitCoinPriceIndexTest"/>
         </classes>
     </test>
 </suite>

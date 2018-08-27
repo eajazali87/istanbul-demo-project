@@ -17,5 +17,6 @@ public class BitCoinPriceIndexPageObject {
 
     public By selectCurrency = By.xpath("//select");
     public By reset = By.xpath("//*[@id='root']/div/div[1]/div/a");
+    public By canvasChart = By.cssSelector("canvas.chartjs-render-monitor");
 
 }

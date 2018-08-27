@@ -8444,20 +8444,7 @@
                 }
             }, i.a.createElement("div", null, i.a.createElement("span", {
                 className: "header"
-            }, " ", t.title, " ")), i.a.createElement("div", {
-                className: "subheader-body"
-            }, i.a.createElement("span", {
-                className: "subheader"
-            }, " Written by ", i.a.createElement("a", {
-                className: "link",
-                href: "https://markjoelchavez.com"
-            }, "@markisundefined"), ". "), i.a.createElement("span", {
-                className: "subheader"
-            }, " Powered by ", i.a.createElement("a", {
-                className: "link",
-                target: "_blank",
-                href: "https://www.coindesk.com/price/"
-            }, "CoinDesk"), ". ")))
+            }, " ", t.title, " ")))
         };
     e.a = o
 }, function(t, e) {}, function(t, e, n) {

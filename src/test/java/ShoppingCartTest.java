@@ -22,12 +22,12 @@ public class ShoppingCartTest extends BaseClass {
 
     String url = "http://127.0.0.1:8000/src/main/java/fixtures/shopping-cart.html";
 
-    @BeforeMethod (alwaysRun = true)
+    @BeforeMethod(alwaysRun = true)
     public void beforeMethod() throws InterruptedException {
         commonUtils.get(url);
     }
 
-    @Test(groups = "consolidated")
+    @Test(groups = "multiple")
     public void shoppingCartTest() throws InterruptedException {
         commonUtils.clickUsingJS(shoppingCartPageObject.xsFilter);
         commonUtils.click(shoppingCartPageObject.addToCartButton);
@@ -37,13 +37,15 @@ public class ShoppingCartTest extends BaseClass {
         commonUtils.postCoverageData();
     }
 
-    @Test(groups = "single")
-    public void shoppingCartSingleTest() throws InterruptedException, IOException {
+    @Test(groups = {"single"})
+    public void addItemsToCartTest() throws InterruptedException, IOException {
         commonUtils.clickUsingJS(shoppingCartPageObject.xsFilter);
         commonUtils.click(shoppingCartPageObject.addToCartButton);
         commonUtils.click(shoppingCartPageObject.openCart);
         commonUtils.click(shoppingCartPageObject.addToCartButton);
         commonUtils.click(shoppingCartPageObject.closeCart);
+        commonUtils.selectByIndex(shoppingCartPageObject.orderBy, 1);
+        commonUtils.selectByIndex(shoppingCartPageObject.orderBy, 2);
         singleReport();
     }
 
@@ -53,6 +55,6 @@ public class ShoppingCartTest extends BaseClass {
         GsonBuilder builder = new GsonBuilder();
         Gson gson = builder.create();
         String coverage = gson.toJson(str);
-        Files.write(Paths.get("/Users/umahaea/demo/projects/.nyc_output/coverage.json"), coverage.getBytes());
+        Files.write(Paths.get("/Users/umahaea/demo/istanbul-demo-project/.nyc_output/coverage.json"), coverage.getBytes());
     }
 }

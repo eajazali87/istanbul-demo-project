@@ -18,4 +18,6 @@ public class ShoppingCartPageObject {
     public By openCart= By.xpath("//*[@id='root']/div/div");
     public By closeCart= By.xpath("//*[@id='root']/div/div/div[1]");
 
+    public By orderBy = By.xpath("//select");
+
 }

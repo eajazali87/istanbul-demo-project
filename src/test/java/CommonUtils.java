@@ -1,6 +1,7 @@
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import org.openqa.selenium.*;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
 
 import java.io.*;
@@ -8,6 +9,8 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.ProtocolException;
 import java.net.URL;
+import java.util.zip.ZipEntry;
+import java.util.zip.ZipInputStream;
 
 /**
  * Created by umahaea on 8/15/18.
@@ -22,6 +25,7 @@ public class CommonUtils extends BaseClass {
 
     WebElement webElement = null;
     Select select = null;
+    Actions builder = null;
     public final String errorColorCode = "\u001B[31m";
 
     //open
@@ -29,7 +33,7 @@ public class CommonUtils extends BaseClass {
         driver.manage().deleteAllCookies();
         try {
             driver.get(url);
-        }catch (Exception e){
+        } catch (Exception e) {
             System.out.println(e.getMessage());
         }
         driver.manage().window().maximize();
@@ -69,6 +73,18 @@ public class CommonUtils extends BaseClass {
             System.out.println(errorColorCode + Thread.currentThread().getStackTrace()[2].getMethodName() + ":" + Thread.currentThread().getStackTrace()[2].getLineNumber() + " - " + element + ": no such element, click operation using JS didn't happen");
         }
 
+        Thread.sleep(1000);
+    }
+
+    //click on co-ordinates
+    public void clickByCoordinates(By element, int x, int y) throws InterruptedException {
+        try {
+            webElement = driver.findElement(element);
+            builder = new Actions(driver);
+            builder.moveToElement(webElement, x, y).click().build().perform();
+        } catch (NoSuchElementException e) {
+            System.out.println(errorColorCode + Thread.currentThread().getStackTrace()[2].getMethodName() + ":" + Thread.currentThread().getStackTrace()[2].getLineNumber() + " - " + element + ": no such element, click operation using JS didn't happen");
+        }
         Thread.sleep(1000);
     }
 
@@ -150,5 +166,61 @@ public class CommonUtils extends BaseClass {
             e.printStackTrace();
         }
         connection.disconnect();
+    }
+
+    public static void downloadZip(InputStream input, OutputStream output, int bufferSize) throws IOException {
+        byte[] buf = new byte[bufferSize];
+        int n = input.read(buf);
+        while (n >= 0) {
+            output.write(buf, 0, n);
+            n = input.read(buf);
+        }
+        output.flush();
+    }
+
+    public void unZipIt(String zipFile, String outputFolder) {
+        byte[] buffer = new byte[1024];
+
+        try {
+            //create output directory is not exists
+            File folder = new File(outputFolder);
+            if (!folder.exists()) {
+                folder.mkdir();
+            }
+
+            //get the zip file content
+            ZipInputStream zis = new ZipInputStream(new FileInputStream(zipFile));
+            //get the zipped file list entry
+            ZipEntry ze = zis.getNextEntry();
+
+            while (ze != null) {
+                String fileName = ze.getName();
+                File newFile = new File(outputFolder + File.separator + fileName);
+
+                System.out.println("file unzip : " + newFile.getAbsoluteFile());
+
+                //create all non exists folders
+                //else you will hit FileNotFoundException for compressed folder
+                new File(newFile.getParent()).mkdirs();
+
+                FileOutputStream fos = new FileOutputStream(newFile);
+
+                int len;
+                while ((len = zis.read(buffer)) > 0) {
+                    fos.write(buffer, 0, len);
+                }
+
+                fos.close();
+                ze = zis.getNextEntry();
+            }
+
+            zis.closeEntry();
+            zis.close();
+
+            System.out.println("Done");
+
+        } catch (IOException ex) {
+            ex.printStackTrace();
+        }
     }
 }
