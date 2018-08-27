@@ -58,7 +58,7 @@ public class BaseClass {
             out.close();
             commonUtils.unZipIt(INPUT_ZIP_FILE, OUTPUT_FOLDER);
         } else {
-            System.out.println("single-session report in the .nyc_output dir!");
+            System.out.println("single-session report is in the .nyc_output dir!");
         }
     }
 }

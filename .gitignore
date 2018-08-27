@@ -2,9 +2,9 @@
 node_modules
 .idea
 DemoProject.iml
-demo-project.iml
 .idea
 coverage
 download_coverage
 target
 .DS_Store
+demo-project.iml

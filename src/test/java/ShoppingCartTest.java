@@ -39,22 +39,13 @@ public class ShoppingCartTest extends BaseClass {
 
     @Test(groups = {"single"})
     public void addItemsToCartTest() throws InterruptedException, IOException {
+        commonUtils.selectByIndex(shoppingCartPageObject.orderBy, 1);
+        commonUtils.selectByIndex(shoppingCartPageObject.orderBy, 2);
         commonUtils.clickUsingJS(shoppingCartPageObject.xsFilter);
         commonUtils.click(shoppingCartPageObject.addToCartButton);
         commonUtils.click(shoppingCartPageObject.openCart);
         commonUtils.click(shoppingCartPageObject.addToCartButton);
         commonUtils.click(shoppingCartPageObject.closeCart);
-        commonUtils.selectByIndex(shoppingCartPageObject.orderBy, 1);
-        commonUtils.selectByIndex(shoppingCartPageObject.orderBy, 2);
-        singleReport();
-    }
-
-    public void singleReport() throws IOException {
-        js = (JavascriptExecutor) driver;
-        Object str = js.executeScript("return window.__coverage__;");
-        GsonBuilder builder = new GsonBuilder();
-        Gson gson = builder.create();
-        String coverage = gson.toJson(str);
-        Files.write(Paths.get("/Users/umahaea/demo/istanbul-demo-project/.nyc_output/coverage.json"), coverage.getBytes());
+        commonUtils.singleReport();
     }
 }

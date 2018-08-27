@@ -9,6 +9,8 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.ProtocolException;
 import java.net.URL;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
@@ -86,6 +88,15 @@ public class CommonUtils extends BaseClass {
             System.out.println(errorColorCode + Thread.currentThread().getStackTrace()[2].getMethodName() + ":" + Thread.currentThread().getStackTrace()[2].getLineNumber() + " - " + element + ": no such element, click operation using JS didn't happen");
         }
         Thread.sleep(1000);
+    }
+
+    public void singleReport() throws IOException {
+        js = (JavascriptExecutor) driver;
+        Object str = js.executeScript("return window.__coverage__;");
+        GsonBuilder builder = new GsonBuilder();
+        Gson gson = builder.create();
+        String coverage = gson.toJson(str);
+        Files.write(Paths.get("/Users/umahaea/demo/istanbul-demo-project/.nyc_output/coverage.json"), coverage.getBytes());
     }
 
     public void postCoverageData() {

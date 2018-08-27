@@ -9,21 +9,29 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
+        <!-- Optional URL to server. Default value is http://localhost:9000 -->
+        <sonar.host.url>http://localhost:9000</sonar.host.url>
         <sonar.login>admin</sonar.login>
         <sonar.password>admin</sonar.password>
         <sonar.language>js</sonar.language>
-        <sonar.sourceEncoding>js</sonar.sourceEncoding>
+        <sonar.sourceEncoding>utf-8</sonar.sourceEncoding>
         <sonar.javascript.coveragePlugin>lcov</sonar.javascript.coveragePlugin>
         <sonar.javascript.lcov.reportPath>${project.basedir}/download_coverage/lcov.info
         </sonar.javascript.lcov.reportPath>
         <sonar.projectKey>Denver_Demo_Key</sonar.projectKey>
         <sonar.projectName>Denver_Demo_Name</sonar.projectName>
         <sonar.projectDescription>Denver_Demo</sonar.projectDescription>
-        <sonar.sources></sonar.sources>
-        <sonar.inclusions>${project.basedir}/static/js/bitcoin-price-index.js,${project.basedir}/static/js/shopping-cart.js</sonar.inclusions>
+        <sonar.sources>static/js</sonar.sources>
+        <sonar.inclusions>static/js/bitcoin-price-index.js,static/js/shopping-cart.js</sonar.inclusions>
     </properties>
 
+
     <dependencies>
+        <dependency>
+            <groupId>org.codehaus.sonar</groupId>
+            <artifactId>sonar-maven-plugin</artifactId>
+            <version>5.1</version>
+        </dependency>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
